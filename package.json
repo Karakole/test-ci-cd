@@ -1,0 +1,30 @@
+{
+  "name": "test-ci-cd",
+  "version": "1.0.0",
+  "description": "test Ci-Cd de Github",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karakole/test-ci-cd.git"
+  },
+  "keywords": [
+    "test",
+    "github",
+    "Ci",
+    "Cd",
+    "unit",
+    "test"
+  ],
+  "author": "H64",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Karakole/test-ci-cd/issues"
+  },
+  "homepage": "https://github.com/Karakole/test-ci-cd#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
